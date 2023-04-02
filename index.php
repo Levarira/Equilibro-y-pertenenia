@@ -103,6 +103,8 @@
     <dd>Habilidad para trabajar en equipo</dd>
     <dt class="definicion">
         Ser capaz de trabajar de manera efectiva con otros y colaborar 
+
+
     </dt> 
     </div>
 
