@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    
 
     <?php
         include 'templates/dependencias.php';
@@ -11,6 +13,15 @@
 
     <title>Formulario Contacto</title>
 </head>
+
+<header class="header" id="inicio">
+            <img src="Imagenes/imagen 21.svg" alt="" class="hamburger">
+                <nav class="menu-navegacion">
+                    <a href="index.php" class="active">Inicio</a>
+                    <a href="comunicacionefectiva.php">Comunicación efectiva</a>
+                     <a href="nuevoContacto.php">Contacto</a>
+                </nav>
+    </header>
 <body>
     <?php
         include 'templates/header.php';
@@ -66,5 +77,31 @@
         
         <button type="submit" id="form-submit" class="btn btn-primary">Enviar</button>
     </form>
+
+    <script src="js/menu.js"></script>
 </body>
+
+<footer>
+
+  <div class="contenedor-footer">
+    <div class="content-foo">
+      <h2>Telefono</h2>
+      <p class="blancas">3186305691</p>
+    </div>
+    
+    <div class="content-foo">
+      <h2>Correo</h2>
+      <p class="blancas">Equilibrio.perte@gmail.com</p>
+    </div>
+
+    <div class="content-foo">
+      <h2>Direccion</h2>
+      <p class="blancas">Cl 56 # 90b 29</p>
+    </div>
+  </div>
+
+  <h3 class="titulo-final">&copy; Hasbleidy O | Leydy | Julian | Carol</h3>
+
+</footer>
+
 </html>

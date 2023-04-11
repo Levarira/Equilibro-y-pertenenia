@@ -18,9 +18,7 @@
                 <nav class="menu-navegacion">
                     <a href="index.php" class="active">Inicio</a>
                     <a href="comunicacionefectiva.php">Comunicación efectiva</a>
-                    <a href="#Empatía">Empatía</a>
-                    <a href="#Asertividad">Asertividad</a>
-                    <a href="contacto.php">Contacto</a>
+                    <a href="nuevoContacto.php">Contacto</a>
                 </nav>
     </header>
     <?php
@@ -87,4 +85,27 @@
     </dt>
     <script src="js/menu.js"></script>
 </body>
+
+<footer>
+
+  <div class="contenedor-footer">
+    <div class="content-foo">
+      <h2>Telefono</h2>
+      <p class="blancas">3186305691</p>
+    </div>
+    
+    <div class="content-foo">
+      <h2>Correo</h2>
+      <p class="blancas">Equilibrio.perte@gmail.com</p>
+    </div>
+
+    <div class="content-foo">
+      <h2>Direccion</h2>
+      <p class="blancas">Cl 56 # 90b 29</p>
+    </div>
+  </div>
+
+  <h3 class="titulo-final">&copy; Hasbleidy O | Leydy | Julian | Carol</h3>
+
+</footer>
 </html>

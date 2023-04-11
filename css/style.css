@@ -74,7 +74,7 @@ a {
 
 h1{
     font-family: 'Merienda', cursive;
-    color: #50b343;
+    color: #7375a5;
     font-size: 68px;
     margin-left: 100px;
     text-decoration: none;    
@@ -151,72 +151,6 @@ dd{
 
 
 
-/* tcontacto has*/
-.contact-us {    
-    padding: 250px 250px;
-    background-image: url(../Imagenes/18.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    border: none;
-}
-      
-form#contact {
-    background-color: #fff;
-    padding: 50px 20px;
-    border-radius: 10px;
-    box-sizing: border-box;
-    border: none;
-}
-
-form#contact input::placeholder {
-    color: #2a2a2a;
-}
-
-form#contact input {
-    width: 95%;
-    height: 95px;
-    border-radius: 33px;
-    background-color: #d1f3ff;
-    border: none;
-    font-size: 15px;
-    font-weight: 300;
-    color: #2a2a2a;
-    padding: 0px 20px;
-    margin-bottom: 20px;
-    border: none;
-}
-
-form#contact textarea {
-    height: 100px;
-    border-radius: 50px;
-    background-color: #d1f3ff;
-    border: none;
-    font-size: 15px;
-    font-weight: 300;
-    color: #2a2a2a;
-    padding: 15px 20px;
-    margin-bottom: 20px;
-    border: none;
-}
-
-form#contact button {
-    display: inline-block;
-    background-color: #03a4ed;
-    font-size: 15px;
-    font-weight: 400;
-    color: #fff;
-    text-transform: capitalize;
-    padding: 12px 25px;
-    border-radius: 23px;
-    letter-spacing: 0.25px;
-    border: none;
-    outline: none;
-    transition: all .3s;
-    box-sizing: border-box;
-    border: none;
-}
-/* termina contacto has*/
 td{
     text-align: center;
 }
@@ -253,6 +187,7 @@ td{
   transition: transform .3s ease-in-out;
   transform: translate(110%);
   box-shadow: 0 0 6px rgba(0, 0, 0, .5);
+  z-index:1;
 
 }
 
@@ -354,3 +289,5 @@ footer{
     margin: 20px 0 0 0;
     color: #9e9797;
 }
+
+

@@ -23,9 +23,7 @@
                 <nav class="menu-navegacion">
                     <a href="index.php" class="active">Inicio</a>
                     <a href="comunicacionefectiva.php">Comunicación efectiva</a>
-                    <a href="#Empatía">Empatía</a>
-                    <a href="#Asertividad">Asertividad</a>
-                    <a href="contacto.php">Contacto</a>
+                    <a href="nuevoContacto.php">Contacto</a>
                 </nav>
     </header>
 

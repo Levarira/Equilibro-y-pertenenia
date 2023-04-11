@@ -13,10 +13,7 @@
                     <a href="comunicacionefectiva.php">Comunicación efectiva</a>
                 </li>
                 <li>
-                    <a href="#Empatía">Empatía</a>
-                </li>
-                <li>
-                    <a href="#Asertividad">Asertividad</a>
+                   
                 </li>
                 <li>
                     <a href="contacto.php">Contacto</a>

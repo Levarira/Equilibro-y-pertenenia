@@ -15,7 +15,7 @@
     if (($result = mysqli_query($mysqli, $sql)) === false) {
         die(mysqli_error($mysqli));
     }else{
-        header("Location: http://localhost/ProyectoDiplomado/contacto.php");
+        header("Location: http://localhost/Equilibro-y-pertenenia/nuevoContacto.php");
     }
 
 ?>
