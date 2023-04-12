@@ -21,6 +21,7 @@
                     <a href="index.php" class="active">Inicio</a>
                     <a href="comunicacionefectiva.php">Comunicación efectiva</a>
                     <a href="nuevoContacto.php">Contacto</a>
+                    <a href="admi.html">Admi</a>
                 </nav>
     </header>
     <?php
