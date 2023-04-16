@@ -30,7 +30,12 @@
 	<?php include 'templates/header.php'; ?>
 
 
+ <title>Equilibrio y Pertenencia</title>
 
+
+<br>
+<br>
+<br>
 	<script>
 		function myFunction() {
 			var x = document.getElementById("myTopnav");
@@ -44,9 +49,8 @@
 
 	</br>
 	<div class="container">
-		<div class="jumbotron text-center splash">
-			<h1>Equilibrio y Pertenencia</h1>
-			<p class="lead">Image taken from <a href="https://unsplash.com/photos/iIg4F2IWbTM" target="_blank">Unsplash.com</a></p>
+		<div class="jumbotron text-center splash">		
+	<p class="lead"> <a href="https://unsplash.com/photos/iIg4F2IWbTM" target="_blank"></a></p>
 		</div>
 
 

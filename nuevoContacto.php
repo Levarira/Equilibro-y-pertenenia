@@ -38,13 +38,13 @@
 				<div class="col-md-6">
 					<div class="form-group">
 						<label id="name-label" for="name">Nombre</label>
-						<input type="text" name="name" id="name" placeholder="Enter your name" class="form-control" required>
+						<input type="text" name="name" id="name" placeholder="Nombre" class="form-control" required>
 					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="form-group">
 						<label id="email-label" for="email">Apellido</label>
-						<input type="text" name="email" id="email" placeholder="Enter your email" class="form-control" required>
+						<input type="text" name="email" id="email" placeholder="Apellido" class="form-control" required>
 					</div>
 				</div>
 			</div>
@@ -52,14 +52,14 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="form-group">
-						<label id="number-label" for="number">Cédula <small>(optional)</small></label>
+						<label id="number-label" for="number">Cédula <small></small></label>
 						<input type="number" name="age" id="number" class="form-control" placeholder="Cédula" >
 					</div>
 				</div>
                 
 				<div class="col-md-6">
 					<div class="form-group">    
-                    <label id="number-label" for="number">Celular <small>(optional)</small></label>
+                    <label id="number-label" for="number">Celular <small></small></label>
 						<input type="number" name="age" id="number" class="form-control" placeholder="Celular" >
 				
 					</div>
