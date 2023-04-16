@@ -2,8 +2,7 @@
  
 	<div class="footer-left">
 
-		<h3>Equilibrio y pertenencia<span><img style="height: 10vh;"></span></h3>
-
+		<h3>Equilibrio y pertenencia<span> 
 		<p class="footer-company-name" style="color: white; font-family: cursive;">Realizado por:&copy; Hasbleidy O | Leydy | Julian | Carol</p>
 	</div>
 
@@ -30,7 +29,10 @@
 
 		<p style="color: white;" class="footer-company-about">
 			<span>Sobre Nosotros</span>
-			Pendiente E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet.
+			Quienes estén interesados, para que accedan a información útil de manera rápida. Ponemos a su servicio diferentes tipos de información con la finalidad de adaptarnos a las personas y sus necesidades.
+
+        ¡Queremos ser tu mayor aliado en tu búsqueda de la salud y el bienestar emocional!
+
 		</p>
 
 	</div>

@@ -37,14 +37,14 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="form-group">
-						<label id="name-label" for="name">Nombre</label>
-						<input type="text" name="name" id="name" placeholder="Nombre" class="form-control" required>
+						<label id="name-label" for="name">Nombres</label>
+						<input type="text" name="name" id="name" placeholder="Nombres" class="form-control" required>
 					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="form-group">
-						<label id="email-label" for="email">Apellido</label>
-						<input type="text" name="email" id="email" placeholder="Apellido" class="form-control" required>
+						<label id="email-label" for="email">Apellidos</label>
+						<input type="text" name="email" id="email" placeholder="Apellidos" class="form-control" required>
 					</div>
 				</div>
 			</div>
@@ -66,7 +66,7 @@
 				</div>
                 <div class="col-md-6">
 					<div class="form-group">
-                    <label id="number-label" for="number">Email<small>  (optional)</small></label>
+                    <label id="number-label" for="number">Email<small></small></label>
 						<input type="email" name="age" id="number" class="form-control" placeholder="Email" >
 				
 					</div>
@@ -79,7 +79,7 @@
 						<label>¿Conoce las competencias blandas?</label>
 						<div class="custom-control custom-radio custom-control-inline">
 							<input type="radio" id="customRadioInline1" value="Definitely" name="customRadioInline1" class="custom-control-input" checked="¿Conoce las competencias blandas?">
-							<label class="custom-control-label" for="customRadioInline1">Yes</label>
+							<label class="custom-control-label" for="customRadioInline1">Si</label>
 						</div>
 						<div class="custom-control custom-radio custom-control-inline">
 							<input type="radio" id="customRadioInline2" value="Maybe" name="customRadioInline1" class="custom-control-input">
@@ -95,7 +95,7 @@
 				<div class="col-md-12">
 					<div class="form-group">
 						<label>¿Qué deseas Mejorar?</label>
-						<textarea  id="comments" class="form-control" name="comment" placeholder="¿Qué deseas Mejorar?"></textarea>
+						<textarea  id="comments" class="form-control" name="comment" placeholder="¿Escribe aqui?"></textarea>
 					</div>
 				</div>
 			</div>
