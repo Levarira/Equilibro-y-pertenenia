@@ -39,6 +39,8 @@
 		}
 	</script>
 
+
+
 	
 	<div class="container">
 		<img src="Imagenes/header2.png" alt="">
@@ -47,20 +49,22 @@
 	
 	<section class="text">
 
-<div class="text1">
-	<p class="titulo1">¿Qué son las habilidades sociales?</p>
-	<p class="parr1">
-		Las habilidades sociales (HHSS) para la psicología, es un conjunto de conductas y habitos observables, que
-		fomentan la comunicación eficaz, como las relaciones satisfactorias entre las personas basado en respeto. En
-		otras palabras, son ragos de comportamiento y comunicación que nos hacen lograr comunicarnos de manera clara y
-		efectiva, escuchar y comprender a los demás, mostrar empatía y comprensión, trabajar en equipo, resolver
-		conflictos de manera constructiva y consolidar relaciones interpersonales positivas.
-	</p>
-</div>
-<div class="imagens2">
-<img src="Imagenes/seccion2.png" alt="">
-</div>
-</section>
+			<div class="text1">
+				<p class="titulo1">¿Qué son las habilidades sociales?</p>
+				<p class="parr1">
+					Las habilidades sociales (HHSS) para la psicología, es un conjunto de conductas y habitos observables, que
+					fomentan la comunicación eficaz, como las relaciones satisfactorias entre las personas basado en respeto. En
+					otras palabras, son ragos de comportamiento y comunicación que nos hacen lograr comunicarnos de manera clara y
+					efectiva, escuchar y comprender a los demás, mostrar empatía y comprensión, trabajar en equipo, resolver
+					conflictos de manera constructiva y consolidar relaciones interpersonales positivas.
+				</p>
+			</div>
+			<div class="imagens2">
+				<img src="Imagenes/seccion2.png" alt="">
+			</div>
+	</section>
+
+
 
 <dd> Hay varias maneras de mejorar tus habilidades sociales, aquí te presentamos algunas: </dd>
 <br>
