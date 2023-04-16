@@ -14,7 +14,7 @@
 <header class="header" id="inicio">
     <div>
       <nav class="menu">
-        <a href="index.html" class="logo">
+        <a href="index.php" class="logo">
           <h1>EQUILIBRIO <span>Y PERTENENCIA</span></h1>
 
         </a>

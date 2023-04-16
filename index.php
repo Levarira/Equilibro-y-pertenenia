@@ -47,24 +47,18 @@
 		<img src="Imagenes/header2.png" alt="">
 
 	</div>
-	<div class="container">
-	<div class="container py-3">
+	
   
   <div class="card">
     <div class="row ">
 
-      <div class="col-md-7 px-3">
+	<div class="col-md-7 px-3">
         <div class="card-block px-6">
-          <h4 class="card-title" style="font-family: 'Courier New', Courier, monospace; color:black;">¿Qué son las habilidades sociales?</h4>
+          <h4 class="titulo1" >Que son las habilidades sociales</h4>
           
-          <p class="card-text" style="font-family: 'Courier New', Courier, monospace; color:black; ">
-		  Las habilidades sociales (HHSS) para la psicología, son un conjunto de conductas y hábitos observables, que fomentan la comunicación eficaz, como las relaciones satisfactorias. En otras palabras, son rasgos de comportamiento y comunicación que nos llevan a tener una comunicación de manera clara y efectiva, escuchar y comprender a los demás, trabajar en equipo, resolver conflictos de manera constructiva y consolidar relaciones interpersonales positivas.
-		</br> 
-		<br>
-		</br> 
-		<br>	
-		</p>
-          
+          <p class="parr1" >
+		  Las habilidades sociales (HHSS) para la psicología, es un conjunto de conductas y habitos observables, que fomentan la comunicación eficaz, como las relaciones satisfactorias entre las personas basado en respeto. En otras palabras, son ragos de comportamiento y comunicación que nos hacen lograr comunicarnos de manera clara y efectiva, escuchar y comprender a los demás, mostrar empatía y comprensión, trabajar en equipo, resolver conflictos de manera constructiva y consolidar relaciones interpersonales positivas
+		
         </div>
       </div>
       

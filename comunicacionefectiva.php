@@ -85,7 +85,7 @@
 
 
         </p>
-       <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+       <a href="" class="btn btn-outline-success btn-sm"></a>
         <a href="" class="btn btn-outline-danger btn-sm"><i class="far fa-heart"></i></a>
       </div>
      </div>
@@ -103,8 +103,8 @@
         <p class="card-text">
         Las personas suelen pensar que para tener una comunicación efectiva se requiere aprender y desarrollar ciertas habilidades eficaces que logren transformar nuestros espacios y tener una mayor influencia con nuestros equipos de trabajo, pero también es necesario tener la capacidad de escuchar y comprender del todo la información y datos que recibimos, recordemos, “entendernos para ser entendidos”. Para una comunicación efectiva es necesario conocer la diferencia entre Comunicación Común y Comunicación efectiva: Comunicación
         </p>
-       <a href="" class="btn btn-outline-success btn-sm">Read More</a>
-        <a href="" class="btn btn-outline-danger btn-sm"><i class="far fa-heart"></i></a>
+       <a href="" ></a>
+        <a href=""><i class="far fa-heart"></i></a>
       </div>
      </div>
     </div>
