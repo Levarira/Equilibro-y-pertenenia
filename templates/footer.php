@@ -2,7 +2,11 @@
  
 	<div class="footer-left">
 
-		<h3>Equilibrio y pertenencia<span> 
+	 <h3>Equilibrio y pertenencia
+		<br>
+		<br>
+		<br>		
+	
 		<p class="footer-company-name" style="color: white; font-family: cursive;">Realizado por:&copy; Hasbleidy O | Leydy | Julian | Carol</p>
 	</div>
 
@@ -28,10 +32,9 @@
 	<div class="footer-right">
 
 		<p style="color: white;" class="footer-company-about">
-			<span>Sobre Nosotros</span>
-			Quienes estén interesados, para que accedan a información útil de manera rápida. Ponemos a su servicio diferentes tipos de información con la finalidad de adaptarnos a las personas y sus necesidades.
-
-        ¡Queremos ser tu mayor aliado en tu búsqueda de la salud y el bienestar emocional!
+			<span>Quienes somos</span>
+			Somos un grupo de Psicologos interesandos en tu salud mental, por ende si deseas acceder a información o requieres apoyo psicológico, ponemos a tus servicios diferentes tipos de accesorias con la finalidad de ayudarte. 
+          ¡Queremos ser tu mayor aliado en la búsqueda de tú salud y el bienestar emocional!
 
 		</p>
 
