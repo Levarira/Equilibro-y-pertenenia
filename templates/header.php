@@ -12,10 +12,10 @@
 
 
 <header class="header" id="inicio">
-    <div>
+    <div> 
       <nav class="menu">
         <a href="index.php" class="logo">
-          <h1>EQUILIBRIO <span>Y PERTENENCIA</span></h1>
+          <h1> EQUILIBRIO <span>Y PERTENENCIA</span></h1>
 
         </a>
 

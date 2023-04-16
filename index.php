@@ -65,7 +65,18 @@
 	</section>
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <dd> Hay varias maneras de mejorar tus habilidades sociales, aquí te presentamos algunas: </dd>
 <br>
 <br>
@@ -109,7 +120,7 @@
 </div>
 <div class="grid">
 	<div class="textos-hero">
-	  <img src="Imagenes/imag5.svg" class="ico">
+	 	 <img src="Imagenes/imag5.svg" class="ico">
 	  <div class="item">
 		<b>Trabajar en la comunicación no verbal</b>
 	  </div>
