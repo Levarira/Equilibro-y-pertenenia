@@ -161,33 +161,9 @@ textarea.form-control{
 	box-shadow: 0px 0px 20px rgba(0, 0, 0, .1);
 }
 
-/*/ Imagen Jumbotron fondo */
-
-.splash {
-  background: url("https://www.dropbox.com/s/dkq3dtckehb86l4/header2.png?raw=1") bottom center no-repeat;
-  background-size: cover;
-  color: $white;
-  margin-bottom: 0 !important;
-  overflow: hidden;
-  padding-top: 10em !important;
-  padding-bottom: 12em !important;
-  position: relative;
-  text-shadow: 1px 1px 5px rgba(0,0,0,.4);
-  z-index: 9999;
-}
 
 
-  &:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: $brand-color;
-    opacity: 0.5;
-    z-index: -1;
-  }
+
 
 /*cards */
 .card-block {
@@ -308,16 +284,7 @@ body {
   font-family: Open Sans;
 }
 
-section {
-  width: 100%;
-  display: inline-block;
-  background: #333;
-  height: 30vh;
-  text-align: center;
-  font-size: 18px;
-  font-weight: 700;
-  text-decoration: underline;
-}
+
 
 .footer-distributed{
 	background:rgb(68, 67, 67);
