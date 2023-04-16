@@ -39,8 +39,6 @@
 		}
 	</script>
 
-
-
 	
 	<div class="container">
 		<img src="Imagenes/header2.png" alt="">
