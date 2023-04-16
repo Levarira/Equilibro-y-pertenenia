@@ -21,9 +21,6 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
-	<link rel="stylesheet" href="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.css">
-
-	<script type="text/javascript" src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.js"></script>
 
 
 	<?php include 'templates/header.php'; ?>
@@ -42,15 +39,13 @@
 		}
 	</script>
 
-	</br>
+
+
+	
 	<div class="container">
-		<div class="jumbotron text-center splash">		
-	<p class="lead"> <a href="https://unsplash.com/photos/iIg4F2IWbTM" target="_blank"></a></p>
-		</div>
+		<img src="Imagenes/header2.png" alt="">
 
-
-
-	</br>
+	</div>
 	<div class="container">
 	<div class="container py-3">
   
@@ -69,7 +64,6 @@
 		<br>	
 		</p>
           
-         
         </div>
       </div>
       

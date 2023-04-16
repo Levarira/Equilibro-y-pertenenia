@@ -1,5 +1,5 @@
 <footer class="footer-distributed">
-
+ 
 	<div class="footer-left">
 
 		<h3>Equilibrio y pertenencia<span><img style="height: 10vh;"></span></h3>
