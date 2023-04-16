@@ -24,10 +24,9 @@
     <h1>Formulario de contacto</h1>
     <?php
         $sql = "SELECT * FROM contacto WHERE id = $id";
-
         if (($result = mysqli_query($mysqli, $sql)) === false) {
             die(mysqli_error($mysqli));
-        }else{
+        }else{            
             while ($row = mysqli_fetch_row($result)){
     ?>
     <form action = "php/updateContacto.php" method = "post">

@@ -1,107 +1,132 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS/style.css">
-    
 
-    <?php
-        include 'templates/dependencias.php';
-    ?>
 
-    <title>Formulario Contacto</title>
+  <?php
+  include 'templates/dependencias.php';
+  include 'templates/header.php';
+  ?>
+
 </head>
 
-<header class="header" id="inicio">
-            <img src="Imagenes/imagen 21.svg" alt="" class="hamburger">
-                <nav class="menu-navegacion">
-                    <a href="index.php" class="active">Inicio</a>
-                    <a href="comunicacionefectiva.php">Comunicación efectiva</a>
-                     <a href="nuevoContacto.php">Contacto</a>
-                </nav>
-    </header>
 <body>
-    <?php
-        include 'templates/header.php';
-    ?>
 
-    <h1>Formulario de contacto</h1>
-    <form action = "php/sendContacto.php" method = "post">
-        <div class="input-group mb-3">
-            <span class="input-group-text">Nombres</span>
-            <input type="text" aria-label="Nombres" class="form-control" name = "nombre">
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">Apellidos</span>
-            <input type="text" aria-label="Apellido" class="form-control" name = "apellido">
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">Cédula</span>
-            <input type="text" aria-label="Cédula" class="form-control" name = "cedula" > 
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">Celular</span>
-            <input type="text" aria-label="Celular" class="form-control" name = "celular">
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">Email</span>
-            <input type="text" aria-label="Email" class="form-control" name = "email">
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">¿Conoce las competencias blandas y las competencias duras?</span>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="competencias" id="flexRadioDefault1" value = "SI" checked>
-                <label class="form-check-label" for="flexRadioDefault1">
-                    Si
-                </label>
-            </div>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="competencias" id="flexRadioDefault2" value = "NO">
-                <label class="form-check-label" for="flexRadioDefault2">
-                    No
-                </label>
-            </div>
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">¿Qué deseas mejorar?</span>
-            <textarea class="form-control" aria-label="¿Qué deseas mejorar?" name = "mejorar"></textarea>
-        </div>
-        <div class="input-group mb-3">
-            <span class="input-group-text">Mensaje</span>
-            <textarea class="form-control" aria-label="Mensaje" name = "mensaje"></textarea>
-        </div>
-        
-        <button type="submit" id="form-submit" class="btn btn-primary">Enviar</button>
-    </form>
+  <script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+  </script>
+<div class="container">
 
-    <script src="js/menu.js"></script>
+<div class="container">
+	<header class="header">
+		<legend><h1 id="title" class="text-center">Formulario de contacto</h1></legend>
+		<p id="description" class="text-center">
+			! Gracias Por Tu Respuesta !
+		</p>
+	</header>
+	<div class="form-wrap">	
+		<form id="survey-form" action = "php/sendContacto.php" method = "post">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label id="name-label" for="name">Nombre</label>
+						<input type="text" name="name" id="name" placeholder="Enter your name" class="form-control" required>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="form-group">
+						<label id="email-label" for="email">Apellido</label>
+						<input type="text" name="email" id="email" placeholder="Enter your email" class="form-control" required>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label id="number-label" for="number">Cédula <small>(optional)</small></label>
+						<input type="number" name="age" id="number" class="form-control" placeholder="Cédula" >
+					</div>
+				</div>
+                
+				<div class="col-md-6">
+					<div class="form-group">    
+                    <label id="number-label" for="number">Celular <small>(optional)</small></label>
+						<input type="number" name="age" id="number" class="form-control" placeholder="Celular" >
+				
+					</div>
+				</div>
+                <div class="col-md-6">
+					<div class="form-group">
+                    <label id="number-label" for="number">Email<small>  (optional)</small></label>
+						<input type="email" name="age" id="number" class="form-control" placeholder="Email" >
+				
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>¿Conoce las competencias blandas?</label>
+						<div class="custom-control custom-radio custom-control-inline">
+							<input type="radio" id="customRadioInline1" value="Definitely" name="customRadioInline1" class="custom-control-input" checked="¿Conoce las competencias blandas?">
+							<label class="custom-control-label" for="customRadioInline1">Yes</label>
+						</div>
+						<div class="custom-control custom-radio custom-control-inline">
+							<input type="radio" id="customRadioInline2" value="Maybe" name="customRadioInline1" class="custom-control-input">
+							<label class="custom-control-label" for="customRadioInline2">No</label>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>¿Qué deseas Mejorar?</label>
+						<textarea  id="comments" class="form-control" name="comment" placeholder="¿Qué deseas Mejorar?"></textarea>
+					</div>
+				</div>
+			</div>
+            
+			<div class="row">   
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>Deja tu mensaje..</label>
+						<textarea  id="comments" class="form-control" name="comment" placeholder="Escribe aquí"></textarea>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-4">
+					<button type="submit" id="submit" class="btn btn-primary btn-block">Enviar</button>
+				</div>
+			</div>
+
+		</form>
+	</div>	
+</div>
+</div>
+</br>
+  
+  
 </body>
+</br>
+</br>
+  
 
-<footer>
-
-  <div class="contenedor-footer">
-    <div class="content-foo">
-      <h2>Telefono</h2>
-      <p class="blancas">3186305691</p>
-    </div>
-    
-    <div class="content-foo">
-      <h2>Correo</h2>
-      <p class="blancas">Equilibrio.perte@gmail.com</p>
-    </div>
-
-    <div class="content-foo">
-      <h2>Direccion</h2>
-      <p class="blancas">Cl 56 # 90b 29</p>
-    </div>
-  </div>
-
-  <h3 class="titulo-final">&copy; Hasbleidy O | Leydy | Julian | Carol</h3>
-
-</footer>
+<?php include 'templates/footer.php'; ?>
 
 </html>
