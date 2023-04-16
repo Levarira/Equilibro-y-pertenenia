@@ -63,10 +63,10 @@
           
           <p class="card-text" style="font-family: 'Courier New', Courier, monospace; color:black; ">
 		  Las habilidades sociales (HHSS) para la psicología, son un conjunto de conductas y hábitos observables, que fomentan la comunicación eficaz, como las relaciones satisfactorias. En otras palabras, son rasgos de comportamiento y comunicación que nos llevan a tener una comunicación de manera clara y efectiva, escuchar y comprender a los demás, trabajar en equipo, resolver conflictos de manera constructiva y consolidar relaciones interpersonales positivas.
-		  </br> 
-	
 		</br> 
-		
+		<br>
+		</br> 
+		<br>	
 		</p>
           
          
@@ -77,7 +77,7 @@
         
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block" src="https://www.dropbox.com/s/pjd1knvfeqfol7q/seccion2.png?raw=1">
+              <img class="d-block" src="imagenes/seccion2.png">
             </div>
            
   
@@ -103,18 +103,25 @@
 		<div class="container">
 
 			<span>
-				<h3 style="text-align: center; font-family: cursive;">¿Cómo puedes mejorar tus habilidades sociales?</h3>
+				<h3 style="text-align: center; font-family: cursive;">
+				¿Cómo puedes mejorar tus habilidades sociales?</h3>
 			</span>
 
 			<div class="row pb-5 mb-4">
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/d1ec8lrd5hspdxn/imag1.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
+						<div class="card-body p-4"><img src="imagenes/imag1.svg" alt="" class="img-fluid d-block mx-auto mb-3">
 							<h5> <a class="text-dark" style="font-family: cursive;">Practicar La Empatia</a>
-						<li>Respetando los puntos de opinión. </li>
-					<li>Entrenar la capacidad de entender las propias emociones para entender la de los demás.</li>
-				<li>Evita aconsejar si no hay una petición expresa.</li>
+						<li>
+							Respetando los puntos de opinión.
+						 </li>
+					<li>
+						Entrenar la capacidad de entender las propias emociones para entender la de los demás.
+					</li>
+				<li>
+					Evita aconsejar si no hay una petición expresa.
+				</li>
 			<li></li></h5>
 						</div>
 					</div>
@@ -123,7 +130,7 @@
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/q4u6z21bmxhar1e/imag2.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
+						<div class="card-body p-4"><img src="imagenes/imag2.svg" alt="" class="img-fluid d-block mx-auto mb-3">
 							<h5> <a class="text-dark" style="font-family: cursive;">Escuchar Activamente</a>
 						<li>
 							Escucha sin emitir juicios.
@@ -143,7 +150,7 @@
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/6zmggp02i2rdiz7/imag3.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
+						<div class="card-body p-4"><img src="imagenes/imag3.svg" alt="" class="img-fluid d-block mx-auto mb-3">
 							<h5> <a class="text-dark" style="font-family: cursive;">Ser Amable y Empatico</a></h5>
 
 						</div>
@@ -153,7 +160,7 @@
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/2aoniscm2ytlv4d/imag4.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
+						<div class="card-body p-4"><img src="imagenes/imag4.svg" alt="" class="img-fluid d-block mx-auto mb-3">
 							<h5> <a class="text-dark" style="font-family: cursive;">Mejorar Tu Lenguaje Corporal</a></h5>
 
 						</div>
@@ -162,7 +169,7 @@
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/bmnzb72etv2ehum/imag5.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
+						<div class="card-body p-4"><img src="imagenes/imag5.svg" alt="" class="img-fluid d-block mx-auto mb-3">
 							<h5> <a class="text-dark" style="font-family: cursive;">Trabajar en la Comunicacion No verbal</a></h5>
 
 						</div>
@@ -171,7 +178,7 @@
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/y0nkermnxc8r1af/imag6.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
+						<div class="card-body p-4"><img src="imagenes/imag6.svg" alt="" class="img-fluid d-block mx-auto mb-3">
 							<h5> <a class="text-dark" style="font-family: cursive;">Aprender a manejar conflictos</a></h5>
 
 						</div>
@@ -180,8 +187,11 @@
 				<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
 					
 					<div class="card rounded shadow-sm border-0">
-						<div class="card-body p-4"><img src="https://www.dropbox.com/s/7wewadofvvt9pmo/imag7.svg?raw=1" alt="" class="img-fluid d-block mx-auto mb-3">
-							<h5> <a class="text-dark" style="font-family: cursive;">Buscar Retroalimentacion</a></h5>
+						<div class="card-body p-4"><img src="imagenes/imag7.svg"
+						 alt="" class="img-fluid d-block mx-auto mb-3">
+							<h5>
+								
+							<a class="text-dark" style="font-family: cursive;">Buscar Retroalimentacion</a></h5>
 
 						</div>
 					</div>

@@ -32,7 +32,7 @@
     <form action = "php/updateContacto.php" method = "post">
         <div class="input-group mb-3">
             <span class="input-group-text">Nombres</span>
-            <input type="text" aria-label="Nombres" class="form-control" name = "nombre" value = "<?php echo $row[1];?>">
+            <input type="text" aria-label="Nombres" class="form-control" name = "nombres" value = "<?php echo $row[1];?>">
         </div>
         <div class="input-group mb-3">
             <span class="input-group-text">Apellidos</span>

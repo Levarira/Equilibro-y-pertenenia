@@ -27,9 +27,9 @@
 
 <div class="container">
 	<header class="header">
-		<legend><h1 id="title" class="text-center">Formulario de contacto</h1></legend>
+		<legend><h1 id="title" class="text-center">Contactanos</h1></legend>
 		<p id="description" class="text-center">
-			! Gracias Por Tu Respuesta !
+			
 		</p>
 	</header>
 	<div class="form-wrap">	
