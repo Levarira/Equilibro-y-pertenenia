@@ -85,8 +85,8 @@
 
 
         </p>
-       <a href="" class="btn btn-outline-success btn-sm"></a>
-        <a href="" class="btn btn-outline-danger btn-sm"><i class="far fa-heart"></i></a>
+       
+        
       </div>
      </div>
     </div>
@@ -97,14 +97,14 @@
     <div class="row">
     <div class="col-lg-4 mb-4">
     <div class="card">
-      <img src="https://www.dropbox.com/s/br1757rmizuzns0/16.jpg?raw=1" alt="" class="card-img-top">
+      <img src="imagenes/16.jpg" alt="" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Como Aplicar la comunicacion efectiva</h5>
         <p class="card-text">
         Las personas suelen pensar que para tener una comunicación efectiva se requiere aprender y desarrollar ciertas habilidades eficaces que logren transformar nuestros espacios y tener una mayor influencia con nuestros equipos de trabajo, pero también es necesario tener la capacidad de escuchar y comprender del todo la información y datos que recibimos, recordemos, “entendernos para ser entendidos”. Para una comunicación efectiva es necesario conocer la diferencia entre Comunicación Común y Comunicación efectiva: Comunicación
         </p>
-       <a href="" ></a>
-        <a href=""><i class="far fa-heart"></i></a>
+       
+        
       </div>
      </div>
     </div>
