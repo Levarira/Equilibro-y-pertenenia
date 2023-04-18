@@ -65,18 +65,7 @@
 	</section>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <dd> Hay varias maneras de mejorar tus habilidades sociales, aquí te presentamos algunas: </dd>
 <br>
 <br>
