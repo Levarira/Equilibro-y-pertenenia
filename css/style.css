@@ -15,7 +15,11 @@ body{
     position: relative;
 }
 
+.logop{
 
+    width: 20%;
+    height: 20%;
+}
 .text{
 
     display: flex;

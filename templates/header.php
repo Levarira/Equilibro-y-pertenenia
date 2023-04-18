@@ -14,6 +14,7 @@
 <header class="header" id="inicio">
     <div> 
       <nav class="menu">
+        <img class="logop" src="Imagenes\Logop.jpg" alt="">
         <a href="index.php" class="logo">
           <h1> EQUILIBRIO <span>Y PERTENENCIA</span></h1>
 
