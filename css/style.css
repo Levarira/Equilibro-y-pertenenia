@@ -38,9 +38,14 @@ body{
 
 }
 
+.text2{
+    width: 1000px;
+    margin: 50px;
+    padding-left: 50px;
+ }
 .titulo1{
 
-   font-family: 'Fredoka One', cursive;
+   font-family: 'Fredoka One', 'Courier New', Courier, monospace;
    color: black;
    font-size: 30px;
    padding-bottom: 10px;
@@ -368,5 +373,5 @@ footer{
 
 
     }
-    
+   
 }
