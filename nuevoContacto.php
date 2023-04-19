@@ -51,7 +51,7 @@
             <input type="text" aria-label="Email" class="form-control" name = "email">
         </div>
         <div class="input-group mb-3">
-            <span class="input-group-text">¿Conoce las competencias blandas y las competencias duras?</span>
+            <span class="input-group-text">¿Conoce que son competencias blandas?</span>
             &nbsp;&nbsp;&nbsp;&nbsp;
             <div class="form-check">
                 <input class="form-check-input" type="radio" name="competencias" id="flexRadioDefault1" value = "SI" checked>
