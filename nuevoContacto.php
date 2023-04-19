@@ -39,8 +39,8 @@
             <input type="text" aria-label="Apellido" class="form-control" name = "apellido">
         </div>
         <div class="input-group mb-3">
-            <span class="input-group-text">Cédula</span>
-            <input type="text" aria-label="Cédula" class="form-control" name = "cedula" > 
+            <span class="input-group-text">Cédula (Opcional)</span>
+            <input type="text" aria-label="Cédula" class="form-control" name = "cedula (Opcional)" > 
         </div>
         <div class="input-group mb-3">
             <span class="input-group-text">Celular</span>
@@ -76,7 +76,10 @@
             <textarea class="form-control" aria-label="Mensaje" name = "mensaje"></textarea>
         </div>
         
-        <button type="submit" id="form-submit" class="btn btn-primary">Enviar</button>
+        <button type="submit" id="form-submit" class="btn btn-primary" >Enviar</button>
+        
+        <br>
+        <br>
     </form>
 </body>
 
