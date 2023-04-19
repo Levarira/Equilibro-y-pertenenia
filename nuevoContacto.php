@@ -72,7 +72,7 @@
             <textarea class="form-control" aria-label="¿Qué deseas mejorar?" name = "mejorar"></textarea>
         </div>
         <div class="input-group mb-3">
-            <span class="input-group-text">Mensaje</span>
+            <span class="input-group-text">Disponibilidad</span>
             <textarea class="form-control" aria-label="Mensaje" name = "mensaje"></textarea>
         </div>
         
